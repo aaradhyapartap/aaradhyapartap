@@ -1,7 +1,17 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Building scalable RESTful APIs and backend systems at CSULB (49ers IT Division)<br>Automating enterprise workflows using Python, SQL, and cloud technologies<br>Enhancing system reliability and server infrastructure for large-scale applications<br>👯 I’m looking to collaborate on<br>AI-driven applications and real-world automation projects<br>Full-stack web development (React, Node.js, Spring Boot)<br>Open-source projects focused on data engineering, cloud, or system optimization<br>🤝 I’m looking for help with<br>Advanced distributed systems & system design<br>Scaling microservices architectures<br>Research opportunities in AI/ML applications in healthcare<br>🌱 I’m currently learning<br>Advanced cloud architecture (AWS, GCP, Kubernetes)<br>Machine Learning & Generative AI models<br>System performance optimization for high-scale applications<br>💬 Ask me about<br>Backend development (Python, Java, SQL, REST APIs)<br>Automation & data pipelines<br>Debugging, system optimization, and performance tuning<br>Working in Agile / SAFe environments<br>⚡ Fun fact<br>I’ve worked on systems handling 100K+ daily transactions and platforms processing 1M+ records/day<br>I love turning complex systems into efficient, automated solutions
+**🔭 I’m currently working on**<br>Building scalable RESTful APIs and backend systems at CSULB (49ers IT Division)<br>Automating enterprise workflows using Python, SQL, and cloud technologies<br>Enhancing system reliability and server infrastructure for large-scale applications<br>👯 
+
+**I’m looking to collaborate on**<br>AI-driven applications and real-world automation projects<br>Full-stack web development (React, Node.js, Spring Boot)<br>Open-source projects focused on data engineering, cloud, or system optimization<br>🤝 
+
+**I’m looking for help with**<br>Advanced distributed systems & system design<br>Scaling microservices architectures<br>Research opportunities in AI/ML applications in healthcare<br>🌱 
+
+**I’m currently learning**<br>Advanced cloud architecture (AWS, GCP, Kubernetes)<br>Machine Learning & Generative AI models<br>System performance optimization for high-scale applications<br>💬 
+
+**Ask me about**<br>Backend development (Python, Java, SQL, REST APIs)<br>Automation & data pipelines<br>Debugging, system optimization, and performance tuning<br>Working in Agile / SAFe environments<br>⚡ 
+
+**Fun fact**<br>I’ve worked on systems handling 100K+ daily transactions and platforms processing 1M+ records/day<br>I love turning complex systems into efficient, automated solutions
 
 
 ## 🌐 Socials:
