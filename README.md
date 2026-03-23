@@ -35,6 +35,21 @@ Working in Agile / SAFe environments<br>
 I've worked on systems handling 100K+ daily transactions and platforms processing 1M+ records/day<br>
 I love turning complex systems into efficient, automated solutions
 
+## 📚 Daily Dev Insights
+> I run an automated daily learning system that publishes developer insights every day using Claude AI & GitHub Actions.
+
+🔗 **[Check out my Daily Dev Insights repo](https://github.com/aaradhyapartap/daily-dev-insights)**
+
+Latest topics I've been exploring:
+- 🐍 Python & JavaScript code patterns
+- 🏗️ System design & architecture
+- ⚡ Performance optimization techniques
+- 🔐 Security best practices
+- ☁️ Cloud & DevOps workflows
+
+![Auto-updated daily](https://img.shields.io/badge/Auto--Updated-Daily-brightgreen?style=for-the-badge&logo=github-actions&logoColor=white)
+![Powered by Claude](https://img.shields.io/badge/Powered%20by-Claude%20AI-orange?style=for-the-badge&logo=anthropic&logoColor=white)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ap2002/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aaradhyapartap@gmail.com)
 
